@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back0.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back1.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back2.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back3.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back4.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back5.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back6.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back7.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back8.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/back9.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/bathit.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/die1.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/die2.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/Door.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/EnemyDie1.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/EnemyDie2.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/enemyHit.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/EnemyLeft.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/EnemyRight.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/EnemyStay.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/entersound.mp3</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/highbar.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/left.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/lowbar.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/right.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/right2.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/selectsound.mp3</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/Shoot.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/splBullet_0.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/Stay_Player.png</File>
+    <File>G:/PROGTIME/Программирование/C#2/menu/menu/Content/unknown.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
